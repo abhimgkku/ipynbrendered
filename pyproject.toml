@@ -1,7 +1,7 @@
 
 [build-system]
 requires =['setuptools>= 42.0',"wheel"]
-build-backend= "setuptolls.build_meta"
+build-backend= "setuptools.build_meta"
 
 
 [tools.pytest.ini_options]
